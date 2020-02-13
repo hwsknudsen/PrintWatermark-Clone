@@ -16,3 +16,4 @@ this takes postscripts and renders it to pdf, it also combines postcript waterma
 
 SumatraPDF (SumatraPDF-3.1.2-64-install.exe) - https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 this program is able to print pdf's from the comamnd line to any printer 
+(use the portable version instead)
