@@ -5,7 +5,9 @@ Requirements
 MFILEMON-Tool 1.5.2 (mfilemon-setup.exe) - https://sourceforge.net/projects/mfilemon/files/
 used to make a virtual printer on a print server it catches jobs and send them wherever you want
 
-In this case to a batch file (see this guide) - https://kutana.fogbugz.com/?W2013 
+In this case to a batch file 
+
+(see this guide for mfilemon setup) - https://kutana.fogbugz.com/?W2013 
 think the comment is wrong about pipe on windows 10 (i have this checked on my setup)
 
 
