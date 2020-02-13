@@ -10,7 +10,7 @@ think the comment is wrong about pipe on windows 10 (i have this checked on my s
 
 
 Ghostscript (gs950w64.exe) - https://www.ghostscript.com/download/gsdnld.html
-
+this takes postscripts and renders it to pdf, it also combines postcript watermark files with the pdf
 
 SumatraPDF (SumatraPDF-3.1.2-64-install.exe) - https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 this program is able to print pdf's from the comamnd line to any printer 
